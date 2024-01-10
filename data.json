@@ -1,0 +1,72 @@
+{
+"cat": {
+    "name": "cat",
+    "followers": 2500,
+    "following": 5,
+    "posts":[
+        {
+            "image":"https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "likes": 500 ,
+            "comments": 14
+        },
+        {
+            "image":"https://images.pexels.com/photos/2071873/pexels-photo-2071873.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "likes": 20 ,
+            "comments": 14
+        },
+        {
+            "image":"https://images.pexels.com/photos/821736/pexels-photo-821736.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "likes": 200 ,
+            "comments": 54
+        }
+    ]
+},
+"dog": {
+    "name": "dog",
+    "followers": 9000,
+    "following": 1,
+    "posts":[
+        {
+            "image":"https://images.pexels.com/photos/333083/pexels-photo-333083.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "likes": 770 ,
+            "comments": 84
+        },
+        {
+            "image":"https://images.pexels.com/photos/776078/pexels-photo-776078.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "likes": 870 ,
+            "comments": 88
+        },
+        {
+            "image":"https://images.pexels.com/photos/54386/pexels-photo-54386.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "likes": 2000 ,
+            "comments": 400
+        }
+    ]
+},
+"ajay": {
+    "name": "ajay",
+    "followers": 331,
+    "following": 240,
+    "posts":[
+        {
+            "image":"https://www.instagram.com/p/CmCYVTFoHNzAUbFfgBfjn_zMYqXrKOr8dfaW800/",
+            "likes": 770 ,
+            "comments": 84
+        },
+        {
+            "image":"https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "likes": 870 ,
+            "comments": 88
+        },
+        {
+            "image":"https://images.pexels.com/photos/1121796/pexels-photo-1121796.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "likes": 2000 ,
+            "comments": 400
+        }
+    ]
+}
+
+
+}
+
+
